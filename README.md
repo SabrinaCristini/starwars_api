@@ -12,6 +12,6 @@ Documentação: https://swapi.dev/documentation
 
 4 - Com o código em execução, pode-se acessar por:
   - http://127.0.0.1:5000/powerful_weapon
-  - acessar: http://127.0.0.1:5000/hottest_planets
-  - acessar: http://127.0.0.1:5000/appears_most
-  - acessar: http://127.0.0.1:5000/fastest_ships
+  - http://127.0.0.1:5000/hottest_planets
+  - http://127.0.0.1:5000/appears_most
+  - http://127.0.0.1:5000/fastest_ships

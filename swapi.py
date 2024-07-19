@@ -2,6 +2,8 @@ from flask import Flask, jsonify
 import requests
 from collections import Counter
 
+##starwars API to process
+
 #FLASK to work with API
 app = Flask(__name__)
 

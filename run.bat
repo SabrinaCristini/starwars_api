@@ -1,5 +1,6 @@
 @echo off
 
+
 REM Verificar e instalar o pip
 echo Verificando e instalando o pip...
 where pip >nul 2>nul
